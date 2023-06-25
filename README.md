@@ -8,18 +8,13 @@ The program provides a menu of functions for:
 
         ==========================================================
 
-•	Load Data Structure. 
-- LOADS DATA INTO HASH TABLE FROM FILE
+•	Load Data Structure  - LOADS DATA INTO HASH TABLE FROM FILE
   
-•	Print Course List.  
- - PRINT LIST OF COURSE CODES, TITLES, AND PREREQUISITES
+•	Print Course List  - PRINT LIST OF COURSE CODES, TITLES, AND PREREQUISITES
    
-•	Print Course.       
- - INPUT COURSE CODE FROM USER TO OUTPUT COURSE INFORMATION
+•	Print Course  - INPUT COURSE CODE FROM USER TO OUTPUT COURSE INFORMATION
    
-•	Enter File Name.     
-- ALLOWS USER TO ENTER A FILE NAME TO THEN BE LOADE
-  
+•	Enter File Name  - ALLOWS USER TO ENTER A FILE NAME TO THEN BE LOADE
 
 •	Exit
 
