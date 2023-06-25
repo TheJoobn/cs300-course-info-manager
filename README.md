@@ -22,7 +22,9 @@ The program provides a menu of functions for:
 **How did you approach the problem? Consider why data structures are important to understand.**
 
 o	The approach was to use appropriate data structures, namely a hash table (implemented using an unordered_map in C++) and a vector, to organize the data. 
+
 o	Doing the analysis to understand the difference in the data structures help me choose the right one for handling the data. Overall the hash table made the most sense for this assignment. A hash table makes it easy to quickly access course details, and the vector helps maintain order.
+
 
         ==========================================================
 
