@@ -50,7 +50,7 @@ Whenever i faced roadblocks i enacted the following strategies:
 
 o	These projects in this course highlight the importance of well-planned software design and the effective use of data structures.
 
-o	Through this course I have learned how to use, manipulate, and interpret different data structures and how to determine their runtimes. I have learned many different strategies for writing pseudocode, analyzing data structures, and how to implement the right one for a specific task at hand.
+o	Through this course I have learned how to use, manipulate, and interpret different data structures and how to determine their runtimes. I have learned many different strategies for writing pseudocode, analyzing data structures, and implementing the right one for a specific task at hand.
 
         ==========================================================
 
