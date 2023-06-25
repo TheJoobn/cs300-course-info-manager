@@ -1,4 +1,4 @@
-# CS 300: CourseInfo Program Design and Development 
+# CS 300: CourseInfo Program - Design and Development 
 
 **What was the problem you were solving in the projects for this course?**
 
