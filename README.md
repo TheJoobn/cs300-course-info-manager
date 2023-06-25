@@ -6,7 +6,6 @@ This project is designed to create a useful tool for academic advisors in the Co
 It manages course information by storing the data in a hash table. 
 The program provides a menu of functions for: 
 
-        ==========================================================
 
 •	Load Data Structure  - LOADS DATA INTO HASH TABLE FROM FILE
   
