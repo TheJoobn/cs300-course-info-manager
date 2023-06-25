@@ -13,7 +13,7 @@ The program provides a menu of functions for:
    
  - Print Course  - INPUT COURSE CODE FROM USER TO OUTPUT COURSE INFORMATION
    
- - Enter File Name  - ALLOWS USER TO ENTER A FILE NAME TO THEN BE LOADE
+ - Enter File Name  - ALLOWS USER TO ENTER A FILE NAME TO THEN BE LOADED
 
  - Exit
 
