@@ -1,6 +1,7 @@
 # CS_300_Project_2
 
 **What was the problem you were solving in the projects for this course?**
+
 This project is designed to create a useful tool for academic advisors in the Computer Science department at ABC University. 
 It manages course information by storing the data in a hash table. 
 The program provides a menu of functions for: 
