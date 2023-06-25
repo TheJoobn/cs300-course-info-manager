@@ -1,6 +1,6 @@
 # CS 300: CourseInfo Program - Design and Development 
 
-     What was the problem you were solving in the projects for this course?
+          What was the problem you were solving in the projects for this course?
 
 This project is designed to create a useful tool for academic advisors in the Computer Science department at ABC University. 
 It manages course information by storing the data in a hash table. 
@@ -19,7 +19,7 @@ The program provides a menu of functions for:
 
 
 
-     How did you approach the problem? Consider why data structures are important to understand.
+          How did you approach the problem? Consider why data structures are important to understand.
 
  - The approach was to use appropriate data structures, namely a hash table (implemented using an unordered_map in C++) and a vector, to organize the data. 
 
@@ -28,7 +28,7 @@ The program provides a menu of functions for:
 
 
 
-     How did you overcome any roadblocks you encountered while going through the activities or project?
+          How did you overcome any roadblocks you encountered while going through the activities or project?
 
 Whenever I faced roadblocks I enacted the following strategies:
 
@@ -46,7 +46,7 @@ Whenever I faced roadblocks I enacted the following strategies:
 
 
 
-     How has your work on this project expanded your approach to designing software and developing programs?
+          How has your work on this project expanded your approach to designing software and developing programs?
 
  - These projects in this course highlight the importance of well-planned software design and the effective use of data structures.
 
@@ -54,7 +54,7 @@ Whenever I faced roadblocks I enacted the following strategies:
 
 
 
-     How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+          How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
 
  - These projects have helped me become more detailed in my pseudocode. They have also taught me necessary skills such as how to implement and make use of different data structures to achieve the same goal. My pseudocode and code have also become more readable and organized due to the assignments and projects. Overall, this in turn makes my work a lot more adaptable and maintainable for future adaptations and updates.
         
