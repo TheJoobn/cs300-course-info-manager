@@ -54,7 +54,7 @@ o	Through this course I have learned how to use, manipulate, and interpret diffe
 
         ==========================================================
 
-How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+**How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?**
 
 o	These projects have helped me become more detailed in my pseudocode. They have also taught me necessary skills such as how to implement and make use of different data structures to achieve the same goal. My pseudocode and code have also become more readable and organized due to the assignments and projects. Overall, this in turn makes my work a lot more adaptable and maintainable for future adaptations and updates.
         
