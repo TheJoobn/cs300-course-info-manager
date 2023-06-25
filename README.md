@@ -1,7 +1,8 @@
 # CS_300_Project_2
 
-What was the problem you were solving in the projects for this course?
-This project is designed to create a useful tool for academic advisors in the Computer Science department at ABC University. It manages course information by storing the data in a hash table. 
+**What was the problem you were solving in the projects for this course?**
+This project is designed to create a useful tool for academic advisors in the Computer Science department at ABC University. 
+It manages course information by storing the data in a hash table. 
 The program provides a menu of functions for: 
 
         ==========================================================
@@ -23,14 +24,14 @@ The program provides a menu of functions for:
 
         ==========================================================
 
-How did you approach the problem? Consider why data structures are important to understand.
+**How did you approach the problem? Consider why data structures are important to understand.**
 
 o	The approach was to use appropriate data structures, namely a hash table (implemented using an unordered_map in C++) and a vector, to organize the data. 
 o	Doing the analysis to understand the difference in the data structures help me choose the right one for handling the data. Overall the hash table made the most sense for this assignment. A hash table makes it easy to quickly access course details, and the vector helps maintain order.
 
 
 
-How did you overcome any roadblocks you encountered while going through the activities or project?
+**How did you overcome any roadblocks you encountered while going through the activities or project?**
 
 Whenever i faced roadblocks i enacted the following strategies:
 
@@ -48,7 +49,7 @@ Whenever i faced roadblocks i enacted the following strategies:
 
 
 
-How has your work on this project expanded your approach to designing software and developing programs?
+**How has your work on this project expanded your approach to designing software and developing programs?**
 
 o	These projects in this course highlight the importance of well-planned software design and the effective use of data structures.
 
