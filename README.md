@@ -4,16 +4,22 @@ What was the problem you were solving in the projects for this course?
 This project is designed to create a useful tool for academic advisors in the Computer Science department at ABC University. It manages course information by storing the data in a hash table. 
 The program provides a menu of functions for: 
         ==========================================================
+
 •	Load Data Structure. 
 - LOADS DATA INTO HASH TABLE FROM FILE
+  
 •	Print Course List.  
  - PRINT LIST OF COURSE CODES, TITLES, AND PREREQUISITES
+   
 •	Print Course.       
  - INPUT COURSE CODE FROM USER TO OUTPUT COURSE INFORMATION
+   
 •	Enter File Name.     
 - ALLOWS USER TO ENTER A FILE NAME TO THEN BE LOADE
+  
 
 •	Exit
+
         ==========================================================
 
 How did you approach the problem? Consider why data structures are important to understand.
@@ -26,11 +32,17 @@ o	Doing the analysis to understand the difference in the data structures help me
 How did you overcome any roadblocks you encountered while going through the activities or project?
 
 Whenever i faced roadblocks i enacted the following strategies:
+
 •	I would go over the supplied  requirements and documentation.
+
 •	Refer back to my pseudocode to get an idea of where I may have errors in my code or work.
+
 •	Research online for alternate ways to solve the problem.
+
 •	Take notes on different aspects that could help me solve the problem.
+
 •	Create multiple other copies of my code for testing and editing.
+
 •	Take short breaks for mental recollection and to think over some of my roadblocks.
 
 
@@ -38,6 +50,7 @@ Whenever i faced roadblocks i enacted the following strategies:
 How has your work on this project expanded your approach to designing software and developing programs?
 
 o	These projects in this course highlight the importance of well-planned software design and the effective use of data structures.
+
 o	Through this course I have learned how to use, manipulate, and interpret different data structures and how to determine their runtimes. I have learned many different strategies for writing pseudocode, analyzing data structures, and how to implement the right one for a specific task at hand.
 
 
