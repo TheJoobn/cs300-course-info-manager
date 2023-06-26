@@ -21,18 +21,18 @@ The program provides a menu of functions for:
 
           How did you approach the problem? Consider why data structures are important to understand.
 
- - The approach was to use appropriate data structures, namely a hash table (implemented using an unordered_map in C++) and a vector, to organize the data. 
+ - The approach was to use appropriate data structures, namely a hash table (implemented by using an unordered_map in C++) and a vector, to organize the data. 
 
- - Analyzing the differences in the data structures helped me choose the right one for handling the data. Overall the hash table made the most sense for this assignment. A hash table makes it easy to quickly access course details, and the vector helps maintain order.
+ - By completing a thorough analysis of the data structures, I was able to determine the best option for handling the data in this case was a hash table. The hash table allowed efficient and fast access to course details, making it convenient for retrieving specific information. Furthermore, I utilized a vector data structure to maintain the order of the data. By combining the hash table and vector, I achieved a balance between quick access and preserving the desired order of the elements.
 
-
+By carefully considering the characteristics and requirements of the data, I made an informed decision to select the hash table as the primary data structure for this assignment.  This ensured efficient data retrieval while maintaining the desired order.
 
 
           How did you overcome any roadblocks you encountered while going through the activities or project?
 
 Whenever I faced roadblocks I enacted the following strategies:
 
- - I would go over the supplied  requirements and documentation.
+ - I would go over the supplied requirements and documentation.
 
  - Refer back to my pseudocode to get an idea of where I may have errors in my code or work.
 
@@ -48,14 +48,12 @@ Whenever I faced roadblocks I enacted the following strategies:
 
           How has your work on this project expanded your approach to designing software and developing programs?
 
- - These projects in this course highlight the importance of well-planned software design and the effective use of data structures.
-
- - Through this course I have learned how to use, manipulate, and interpret different data structures and how to determine their runtimes. I have learned many different strategies for writing pseudocode, analyzing data structures, and implementing the right one for a specific task at hand.
+ - The projects in this course have highlighted the significance of meticulous software design and the efficient utilization of data structures. Over the duration of the course, I gained valuable knowledge and skills in employing, manipulating, and interpreting various data structures, while also understanding their runtime characteristics. The course equipped me with a many strategies for crafting effective pseudocode, thoroughly analyzing data structures, and selecting the most appropriate one for a given task.  By emphasizing the importance of a well-planned software design and the effective use of data structures, this course has equipped me with the necessary tools and insights that I will be able to apply to future projects.
 
 
 
           How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
 
- - These projects have helped me become more detailed in my pseudocode. They have also taught me necessary skills such as how to implement and make use of different data structures to achieve the same goal. My pseudocode and code have also become more readable and organized due to the assignments and projects. Overall, this in turn makes my work a lot more adaptable and maintainable for future adaptations and updates.
+ - These projects have helped me produce more detailed pseudocode. They have provided valuable opportunities to learn and apply essential skills, including the implementation and utilization of diverse data structures to achieve similar outcomes or goals. Thanks to the assignments and projects in this course, the organization and readability of my pseudocode and code has improved.   This will allow me to produce work that is a lot more adaptable and maintainable for future adaptations and updates.   
         
 
