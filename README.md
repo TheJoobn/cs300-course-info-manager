@@ -57,3 +57,19 @@ Whenever I faced roadblocks I enacted the following strategies:
  - These projects have helped me produce more detailed pseudocode. They have provided valuable opportunities to learn and apply essential skills, including the implementation and utilization of diverse data structures to achieve similar outcomes or goals. Thanks to the assignments and projects in this course, the organization and readability of my pseudocode and code has improved.   This will allow me to produce work that is a lot more adaptable and maintainable for future adaptations and updates.   
         
 
+
+Whenever I faced roadblocks I enacted the following strategies:
+
+Reviewed the provided requirments and documentation of the assignment. This helped me regain clarity and ensured that I was on the right track.
+
+Consulted my pseudocode to help identify potential errors in my code or work. This provided valuable insight for troubleshooting.
+
+Researched and explored online for approaches and solutions to the problems I was facing. This helped me broaden my perspective and learn new strategies.
+
+Took notes on different aspects or insights that could aide me in solving the problem.
+
+Created multiple other copies of my code for testing and editing. This allowed me to test and experiment different modifications without the fear of losing progress.
+
+Took periodic breaks for mental recollection and allowed me to approach roadblocks with a fresh perspective.
+
+By implementing these strategies, I was able to overcome obstacles and find effective solutions to the problems I encountered.
